@@ -1,0 +1,1 @@
+Extract traits from the above text and organise them into a table with the trait name in the first column and the trait value in the second column. Follow the order of traits exactly as provided; do not skip any trait but use 'null' for missing information instead; and do not add any characters not specified in the list of traits. The list of traits is as follows:
